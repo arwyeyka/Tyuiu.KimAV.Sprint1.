@@ -1,3 +1,9 @@
 <Solution>
-  <Folder Name="/Task0/" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.KimAV.Sprint1.Task0.V0.Lib/Tyuiu.KimAV.Sprint1.Task0.V0.Lib.csproj" Id="3efbf850-8ea2-4345-80cf-0eeaf2451882" />
+    <Project Path="Tyuiu.KimAV.Sprint1.Task0.V0.Test/Tyuiu.KimAV.Sprint1.Task0.V0.Test.csproj" Id="7e269054-cdd0-4e31-9154-a0bfb4a12e8a" />
+    <Project Path="Tyuiu.KimAV.Sprint1.Task0.V0/Tyuiu.KimAV.Sprint1.Task0.V0.csproj" Id="1cb1a335-1ac8-411f-9301-e83444f23114">
+      <BuildType Project="Release" />
+    </Project>
+  </Folder>
 </Solution>
