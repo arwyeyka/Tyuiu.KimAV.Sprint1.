@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1CB1A335-1AC8-411F-9301-E83444F23114}</ProjectGuid>
+    <ProjectGuid>{A41C07A1-D00F-4721-AF57-1AD2A8C26FCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.KimAV.Sprint1.Task0.V0</RootNamespace>
-    <AssemblyName>Tyuiu.KimAV.Sprint1.Task0.V0</AssemblyName>
+    <RootNamespace>Tyuiu.KimAV.Sprint1.Task1.V0</RootNamespace>
+    <AssemblyName>Tyuiu.KimAV.Sprint1.Task1.V0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KimAV.Sprint1.Task0.V0.Lib\Tyuiu.KimAV.Sprint1.Task0.V0.Lib.csproj">
-      <Project>{3efbf850-8ea2-4345-80cf-0eeaf2451882}</Project>
-      <Name>Tyuiu.KimAV.Sprint1.Task0.V0.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.KimAV.Sprint1.Task1.V0.Lib\Tyuiu.KimAV.Sprint1.Task1.V17.Lib.csproj">
+      <Project>{57f07d7a-3462-440b-a490-1369bfffe65f}</Project>
+      <Name>Tyuiu.KimAV.Sprint1.Task1.V17.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
