@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.KimAV.Sprint1.Task1.V17.Lib
 {
-    public class DataService : ISprint1Task1V0
+    public class DataService : ISprint1Task1V17
     {
         public double Calculate(double x, double y)
         {
