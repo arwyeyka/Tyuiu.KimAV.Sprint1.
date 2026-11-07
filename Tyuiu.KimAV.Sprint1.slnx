@@ -21,4 +21,5 @@
     <Project Path="Tyuiu.KimAV.Sprint1.Task3.V4.Test/Tyuiu.KimAV.Sprint1.Task3.V4.Test.csproj" Id="31bc654f-cf9e-48f1-9bc7-62f3c0135892" />
     <Project Path="Tyuiu.KimAV.Sprint1.Task3.V4/Tyuiu.KimAV.Sprint1.Task3.V4.csproj" Id="fb760e58-05dc-4e58-97be-3301fc859e77" />
   </Folder>
+  <Folder Name="/Task4/" />
 </Solution>
